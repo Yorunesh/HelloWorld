@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FastNews</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home</string>
+    <string name="favorites_fragment">Favorites</string>
+    <string name="settings_fragment">Settings</string>
+    <string name="log_out">log out</string>
+    <string name="textview">TextView</string>
+    <string name="tab">CustomTab</string>
+<!--    <string name="textview">TextView</string>-->
+</resources>
